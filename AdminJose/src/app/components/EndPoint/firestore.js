@@ -4,12 +4,13 @@ require('firebase/auth')
 
 
 var config = {
-    apiKey: "AIzaSyC27jHJi5PozCE7zI05b2ohdfvElDVrcTQ",
-    authDomain: "admin-inventory.firebaseapp.com",
-    databaseURL: "https://admin-inventory.firebaseio.com",
-    projectId: "admin-inventory",
-    storageBucket: "admin-inventory.appspot.com",
-    messagingSenderId: "634856400716"
+    apiKey: "AIzaSyACHhbGvN_iGwHQ1TgseoOo_x2JRaUsJWM",
+    authDomain: "autentication-4a335.firebaseapp.com",
+    databaseURL: "https://autentication-4a335.firebaseio.com",
+    projectId: "autentication-4a335",
+    storageBucket: "autentication-4a335.appspot.com",
+    messagingSenderId: "10662142134",
+    appId: "1:10662142134:web:ae49600ac192d80a"
 };
 
 firebase.initializeApp(config);
